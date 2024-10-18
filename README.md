@@ -1,0 +1,20 @@
+## j2y18ltejx-user 7.1.1 NMF26X J250FXXS2ATI1 release-keys
+- Manufacturer: samsung
+- Platform: msm8937
+- Codename: j2y18lte
+- Brand: samsung
+- Flavor: j2y18ltejx-user
+- Release Version: 7.1.1
+- Kernel Version: 3.18.31
+- Id: NMF26X
+- Incremental: J250FXXS2ATI1
+- Tags: release-keys
+- CPU Abilist: armeabi-v7a,armeabi
+- A/B Device: false
+- Treble Device: false
+- Locale: en-GB
+- Screen Density: 240
+- Fingerprint: samsung/j2y18ltejx/j2y18lte:7.1.1/NMF26X/J250FXXS2ATI1:user/release-keys
+- OTA version: 
+- Branch: j2y18ltejx-user-7.1.1-NMF26X-J250FXXS2ATI1-release-keys
+- Repo: samsung_j2y18lte_dump
